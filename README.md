@@ -15,7 +15,7 @@ How to get started
 First open the folder you created
 1) Open git bash
 2) Copy the HTTPS github  cloning link 
-3) Type: git clone [<paste the link here/>](https://github.com/AKBuggy/admissions-management-system.git)https://github.com/AKBuggy/admissions-management-system.git
+3) Type: git clone [<paste the link here/>](https://github.com/AkhileshNandanwar/Admission-Management-System)https://github.com/AkhileshNandanwar/Admission-Management-System
 4) python manage.py makemigrations
 5) python manage.py migrate
 6) python manage.py createsuperuser (to login in through Django Admin Panel).
