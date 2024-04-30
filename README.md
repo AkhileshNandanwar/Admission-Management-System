@@ -25,5 +25,5 @@ Detailed explanation in this word file<br>
 [AMS Setup .docx](https://github.com/AKBuggy/admissions-management-system/files/14421053/AMS.Setup.docx)
 <br><br>
 Screenshot:
-![image](https://github.com/AKBuggy/admissions-management-system/assets/95762611/114a2449-261d-4715-897c-3f2cf339207f)
+![image]
 
