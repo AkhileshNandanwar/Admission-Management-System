@@ -24,6 +24,5 @@ First open the folder you created
 Detailed explanation in this word file<br>
 [AMS Setup .docx](https://github.com/AKBuggy/admissions-management-system/files/14421053/AMS.Setup.docx)
 <br><br>
-Screenshot:
-![image]
+
 
